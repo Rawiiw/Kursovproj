@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pobot", "Pobot.csproj", "{7CD57FD0-3DAB-42C3-82F0-B3AA07E036CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pob", "..\pob\pob.csproj", "{5814DC7A-B488-4EC7-9141-04A11B9A6EB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CD57FD0-3DAB-42C3-82F0-B3AA07E036CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD57FD0-3DAB-42C3-82F0-B3AA07E036CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD57FD0-3DAB-42C3-82F0-B3AA07E036CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD57FD0-3DAB-42C3-82F0-B3AA07E036CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5814DC7A-B488-4EC7-9141-04A11B9A6EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5814DC7A-B488-4EC7-9141-04A11B9A6EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5814DC7A-B488-4EC7-9141-04A11B9A6EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5814DC7A-B488-4EC7-9141-04A11B9A6EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D1B197F-2037-4CF1-83BD-E267B929FC9F}
+	EndGlobalSection
+EndGlobal
